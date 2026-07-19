@@ -66,3 +66,5 @@ This project analyzes **149,116 coffee shop transactions** from three New York C
 - KPI Reporting
 - Microsoft Excel
 - Power Query
+## Dashboard Preview
+![Dashboard](Dashboard.png)
